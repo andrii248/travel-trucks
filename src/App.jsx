@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import AppHeader from './components/AppHeader/AppHeader'
 import { Route, Routes } from 'react-router-dom'
-import HomePage from './pages/HomePage'
+import HomePage from './pages/HomePage/HomePage'
 import CatalogPage from './pages/CatalogPage'
 import NotFoundPage from './pages/NotFoundPage'
 

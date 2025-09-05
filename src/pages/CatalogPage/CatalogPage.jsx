@@ -1,4 +1,6 @@
+
 export default function CatalogPage() {
-  return <div>Campers Page</div>;
+
+  return (<div>Campers Page</div>);
 }
 

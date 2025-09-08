@@ -1,6 +1,9 @@
+import CamperList from "../../components/CamperList/CamperList";
 
 export default function CatalogPage() {
-
-  return (<div>Campers Page</div>);
+  return (
+    <div>
+      <CamperList />
+    </div>
+  );
 }
-
